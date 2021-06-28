@@ -1,0 +1,9 @@
+compile_commands.json
+SPIMasterFW/.cache/clangd
+.cortex-debug.peripherals.state.json
+.cortex-debug.registers.state.json
+SPIMasterFW/build
+SPISlaveFW1/.cache/clangd
+SPISlaveFW1/build
+SPISlaveFW2/.cache/clangd
+SPISlaveFW2/build
